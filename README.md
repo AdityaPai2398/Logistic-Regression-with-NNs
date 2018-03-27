@@ -1,3 +1,2 @@
 # Logistic-Regression-with-NNs
-
-LR and NNs
+Building a Logistic Regression Classifier with a neural network mindset
